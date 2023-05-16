@@ -3,5 +3,5 @@
 </h1>
 
 <h3 align='center'>
-   A passionate front-end developer with a knack for creating exceptional user experiences="vertical-align: bottom" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" width="25">
+  A passionate frontend developer from India <img style="vertical-align: bottom" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" width="25">
 </h3>
