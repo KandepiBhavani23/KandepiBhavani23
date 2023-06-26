@@ -10,7 +10,7 @@
  A passionate front-end developer dedicated to creating exceptional user experiences, specialized in creating visually stunning and highly responsive designs, staying up-to-date with the latest trends and frameworks like React.js 🌟🚀.
 </h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kandepibhavani23&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kandepibhavani23&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  </p> 
@@ -47,13 +47,23 @@
 ## 🔗 Let's Connect:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kandepi-bhavani/)
 
-## 📊 Stats:
 
+
+## 📊 Stats:
 <div align="left">
   
   ![Bhavani GitHub stats](https://github-readme-stats.vercel.app/api?username=kandepibhavani23&theme=maroongold&show_icons=true)
 </div>
 
-## Most Used Languages
+## Streak Stats
+<div>
 
+  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kandepibhavani23&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
+
+  </div>
+
+## Most Used Languages
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kandepibhavani23&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="kandepibhavani23" /></p>
+
+
+
