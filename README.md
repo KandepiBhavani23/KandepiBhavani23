@@ -10,6 +10,8 @@
  A passionate front-end developer dedicated to creating exceptional user experiences, specialized in creating visually stunning and highly responsive designs, staying up-to-date with the latest trends and frameworks like React.js 🌟🚀.
 </h3>
 
+Profile Views :   [![HitCount](https://hits.dwyl.com/KandepiBhavani23/KandepiBhavani23.svg?style=flat-square)](http://hits.dwyl.com/KandepiBhavani23/KandepiBhavani23) 
+
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  </p> 
 
