@@ -49,8 +49,11 @@
 
 ## 📊 Stats:
 
-<div align="center">
+<div align="left">
   
   ![Bhavani GitHub stats](https://github-readme-stats.vercel.app/api?username=kandepibhavani23&theme=maroongold&show_icons=true)
-  
 </div>
+
+## Most Used Languages
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kandepibhavani23&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="kandepibhavani23" /></p>
