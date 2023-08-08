@@ -43,6 +43,7 @@
 ## ‍💻 Coding Profile:
 [![codechef](https://img.shields.io/badge/-CodeChef-FFA116?style=for-the-badge&logo=CodeChef&logoColor=black)](https://www.codechef.com/users/bhavanikandepi)
 [![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Kandepibhavani)
+[![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/bhavani_kandepi)
 
 ## 🔗 Let's Connect:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kandepi-bhavani/)
