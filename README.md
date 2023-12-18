@@ -72,7 +72,7 @@
 
 <p align="center">
 <div align=center>
-  <a href="https://github.com/priya42bagde/JavaScriptCodingInterviewQuestions" title="Go to Source">
+  <a href="https://github.com/KandepiBhavani23/100xDevs-Cohort-2.0" title="Go to Source">
       <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=kandepibhavani23&theme=onedark&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
