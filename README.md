@@ -66,5 +66,17 @@
 ## Most Used Languages
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kandepibhavani23&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="kandepibhavani23" /></p>
 
+<br><br><br><br><br><br><br>
+
+## Git profile Trophies
+
+<p align="center">
+<div align=center>
+  <a href="https://github.com/priya42bagde/JavaScriptCodingInterviewQuestions" title="Go to Source">
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=kandepibhavani23&theme=onedark&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+</p>
+
 
 
