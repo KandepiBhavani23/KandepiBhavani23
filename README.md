@@ -64,9 +64,7 @@
   </div>
 
 ## Most Used Languages
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kandepibhavani23&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="kandepibhavani23" /></p>
-
-<br><br><br><br><br><br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kandepibhavani23&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Git profile Trophies
 
