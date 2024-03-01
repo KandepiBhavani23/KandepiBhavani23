@@ -51,17 +51,13 @@
 
 
 ## 📊 Stats:
-<div align="left">
-  
-  ![Bhavani GitHub stats](https://github-readme-stats.vercel.app/api?username=kandepibhavani23&theme=maroongold&show_icons=true)
+
+  <div align="left"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=kandepibhavani23&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center" alt="Github Stats" />
 </div>
 
 ## Streak Stats
-<div>
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kandepibhavani23&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
 
-  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kandepibhavani23&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
-
-  </div>
 
 ## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kandepibhavani23&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
@@ -72,7 +68,7 @@
 <div align=center>
   <a href="https://github.com/KandepiBhavani23/100xDevs-Cohort-2.0" title="Go to Source">
       <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=kandepibhavani23&theme=onedark&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
+  </a>
 </div>
 </p>
 
