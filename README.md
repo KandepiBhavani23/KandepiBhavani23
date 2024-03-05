@@ -28,7 +28,7 @@
 - Fun fact : I Always try to learn something new and then sleep till it store in the brain 😎
 - 📫 How to reach me **kandepibhavani@gmail.com**
 
-<br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 
 ## ⚙ Languages and Tools:
 [![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
@@ -61,7 +61,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kandepi-bhavani/)
 
 ## Streak Stats
-<div align="left">
+<div align="center">
   <div style="display: flex; flex-direction:row;justify-content: space-between;">
      <img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=kandepibhavani23&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Github Stats" style="max-width: 100%;" />
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=kandepibhavani23&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Streak Stats" style="max-width: 100%;" />
