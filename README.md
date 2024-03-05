@@ -18,7 +18,17 @@
 <h2> Let's start with an intro...<img src="https://media2.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.gif?cid=ecf05e474lxhug39vhb8kxzk03q29lrapvfeimi9orvhcvb1&rid=giphy.gif&ct=s" width="50" />
 </h2>
 
-- 🌱 I’m currently learning **Full Stack Development.**
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
+- 🌱 I’m currently Learning MERN Stack by doing Projects
+- 🤝 I’m looking to collaborate with any Open-Source 
+- 💬 Ask me about **FrontEnd Developement**
+- Fun fact : I Always try to learn something new and then sleep till it store in the brain 😎
+- 📫 How to reach me **kandepibhavani@gmail.com**
+
+<br/><br/><br/><br/>
 
 ## ⚙ Languages and Tools:
 [![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
@@ -41,36 +51,31 @@
 
 
 ## ‍💻 Coding Profile:
+[![Codewars Badge](https://www.codewars.com/users/KandepiBhavani23/badges/large)](https://www.codewars.com/users/KandepiBhavani23)
 [![codechef](https://img.shields.io/badge/-CodeChef-FFA116?style=for-the-badge&logo=CodeChef&logoColor=black)](https://www.codechef.com/users/bhavanikandepi)
 [![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Kandepibhavani)
 [![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/bhavani_kandepi)
 
+
 ## 🔗 Let's Connect:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kandepi-bhavani/)
 
-
-
-## 📊 Stats:
-
-  <div align="left"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=kandepibhavani23&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center" alt="Github Stats" />
-</div>
-
 ## Streak Stats
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kandepibhavani23&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
-
+<div align="left">
+  <div style="display: flex; flex-direction:row;justify-content: space-between;">
+     <img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=kandepibhavani23&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Github Stats" style="max-width: 100%;" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kandepibhavani23&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Streak Stats" style="max-width: 100%;" />
+  </div>
+</div>
 
 ## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kandepibhavani23&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-## Git profile Trophies
 
-<p align="center">
-<div align=center>
-  <a href="https://github.com/KandepiBhavani23/100xDevs-Cohort-2.0" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=kandepibhavani23&theme=onedark&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-  </a>
-</div>
-</p>
+## Git profile Trophies
+ <img src="https://github-profile-trophy.vercel.app/?username=kandepibhavani23&theme=juicyfresh&no-bg=true" />
+
+
 
 
 
