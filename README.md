@@ -27,7 +27,7 @@
 
 ## ✨ About Me
 
-I'm **Bhavani Kandepi**, a Full-Stack Developer and Freelancer who builds modern web applications, business platforms, and AI-powered digital solutions. I work across the product lifecycle—from shaping user experiences and building APIs to integrating databases, connecting AI services, and deploying applications.
+I'm **Bhavani Kandepi**, a Full-Stack Developer and Freelancer who builds modern web applications, business platforms, and AI-powered digital solutions. I work across the product lifecycle from shaping user experiences and building APIs to integrating databases, connecting AI services, and deploying applications.
 
 I enjoy partnering with businesses, startups, and entrepreneurs to turn real-world needs into reliable, intuitive software.
 
@@ -252,6 +252,8 @@ I create tailored digital solutions for businesses across diverse industries, he
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=kandepibhavani23&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+<p align="center"> <img width="80%" src="https://github-trophies.vercel.app/?username=KandepiBhavani23&theme=radical&no-frame=false&no-bg=false&margin-w=4&title=Stars,Followers,Commits,PullRequest,Reviews,Repositories,Issues" alt="Trophies" /> </p>
 
 </div>
 
